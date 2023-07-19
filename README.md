@@ -16,18 +16,21 @@ Os dados públicos podem ser acessados em: [https://www12.senado.leg.br/dados-a
 
 ### Etapas do projeto:
 
-1. Definição do objetivo da análise e coleta dos dados públicos;
-2. Importação e tratamento dos dados (Limpeza, transformações, formatações de campos, análise de valores *null*, análise de variáveis, criação de variáveis auxiliares) - Biblioteca Pandas;
-3. Definição do layout e criação de análises de variáveis (Gerais ou individuais dos Senadores) - Streamlit
-4. Deploy do projeto final e hospedagem Streamlit app
+1. Definição do objetivo da análise;
+2. Importação e tratamento dos dados (Limpeza, transformações, formatações de campos, exclusão de variáveis, análise de valores *null*, análise de variáveis-alvo, criação de variáveis auxiliares) - Biblioteca Pandas;
+3. Geração dos insights e correlações de variáveis - Pandas
+4. Visualização dos dados - Matplotlib e Seaborn
 <hr>
 
 ### Tempo de Execução:
 
 O tempo estimado para a execução de todas as etapas é de 1 dia.
+<hr>
 
 ### Projeto Final:
+![media_vendas_ano](https://github.com/AlbertoFAraujo/AnaliseDataScience/assets/105552990/7c5c3ecb-9311-4ce9-adc6-843d6b183b39)
+![total_vendas_ano](https://github.com/AlbertoFAraujo/AnaliseDataScience/assets/105552990/31378e14-1e2a-4962-8552-fac8363164ae)
+![total_idlojas_ano](https://github.com/AlbertoFAraujo/AnaliseDataScience/assets/105552990/ad52e992-16ab-43b5-80b9-86fc875c438b)
+![cidades_receita_ano](https://github.com/AlbertoFAraujo/AnaliseDataScience/assets/105552990/d8e6b225-34d8-4800-87a5-10d594a848f4)
+![top_vendas_mes](https://github.com/AlbertoFAraujo/AnaliseDataScience/assets/105552990/0d75aac8-bfd9-49e1-a07c-123581bfdd84)
 
-![Untitled](https://github.com/AlbertoFAraujo/AnaliseCeaps/assets/105552990/aa0cdf1e-22d1-465e-a7e1-84ef932d733b)
-![Untitled 1](https://github.com/AlbertoFAraujo/AnaliseCeaps/assets/105552990/2aaf7566-3b51-44e4-98b7-1974709f681e)
-![analiseIndividual](https://github.com/AlbertoFAraujo/AnaliseCeaps/assets/105552990/2d04376c-9d4f-42dd-ba91-83f32cf6fd5b)
