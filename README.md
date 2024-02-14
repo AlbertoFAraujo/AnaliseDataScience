@@ -7,11 +7,20 @@
 | Python | Jupyter | Matplotlib | Pandas | Seaborn |
 <hr>
 
-### Objetivo: 
+### Sobre a base de dados:
 
-Este projeto tem por objetivo realizar uma análise exploratória de vendas das cidades de: Aracaju, Fortaleza, Natal, Recife e Salvador nos anos de 2018 e 2019.
+A base de dados consiste em registros de vendas das cidades de Aracaju, Fortaleza, Natal, Recife e Salvador nos anos de 2018 e 2019. Cada registro inclui informações sobre a cidade onde a venda ocorreu, a data da venda, o valor das vendas, o ID da loja onde a venda foi realizada e a quantidade de itens vendidos. A base de dados permite uma análise detalhada do desempenho das vendas ao longo do tempo e em diferentes localidades, possibilitando a identificação de padrões sazonais, variações de desempenho entre as lojas e a avaliação do impacto de eventos externos nas vendas. Esses dados serão explorados para fornecer insights valiosos sobre o mercado varejista nessas cidades durante os anos em questão.
+
+**Fonte:** cursos Dio.me
 
 <hr>
+
+### Objetivo: 
+
+O objetivo deste projeto é conduzir uma análise exploratória das vendas ocorridas nas cidades de Aracaju, Fortaleza, Natal, Recife e Salvador durante os anos de 2018 e 2019. Através dessa análise, busca-se compreender e identificar padrões, tendências e insights relevantes relacionados aos dados de vendas, incluindo variações sazonais, desempenho das lojas, comportamento dos consumidores e impacto de eventos externos nos resultados de vendas.Portanto, após a análise haverá uma melhor compreensão do mercado varejista regional e possibilitando insights para aprimoramento de estratégias de negócio.
+
+<hr>
+
 
 ### Etapas do projeto:
 
