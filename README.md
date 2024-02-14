@@ -11,7 +11,6 @@
 
 Este projeto tem por objetivo realizar uma análise exploratória de vendas das cidades de: Aracaju, Fortaleza, Natal, Recife e Salvador nos anos de 2018 e 2019.
 
-Os dados públicos podem ser acessados em: [https://www12.senado.leg.br/dados-abertos/conjuntos?portal=Administrativo&grupo=senadores](https://www12.senado.leg.br/dados-abertos/conjuntos?portal=Administrativo&grupo=senadores)
 <hr>
 
 ### Etapas do projeto:
