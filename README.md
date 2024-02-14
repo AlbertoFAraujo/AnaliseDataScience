@@ -1,5 +1,4 @@
-![analiseVendas](https://github.com/AlbertoFAraujo/AnaliseDataScience/assets/105552990/f5ffe12f-d7fb-4578-9dba-ae412477c00f)
-# 🔎ANÁLISE EXPLORATÓRIA DE VENDAS
+![analise_vendas_nordeste](https://github.com/AlbertoFAraujo/AnaliseDataScience/assets/105552990/dfd9a77e-1947-40a0-bee1-69dde785138c)
 
 ### Tecnologias utilizadas: 
 | [<img align="center" alt="Python" height="60" width="60" src="https://api.iconify.design/logos/python.svg">](https://www.python.org/) | [<img align="center" alt="Jupyter" height="60" width="60" src="https://api.iconify.design/logos/jupyter.svg">](https://jupyter.org/) | [<img align="center" alt="Matplotlib" height="60" width="60" src="https://api.iconify.design/devicon/matplotlib.svg">](https://matplotlib.org/) | [<img align="center" alt="Pandas" height="60" width="60" src="https://api.iconify.design/simple-icons/pandas.svg?color=%23f2f2f2">](https://pandas.pydata.org/) | [<img align="center" alt="Seaborn" height="60" width="60" src="https://api.iconify.design/logos/seaborn-icon.svg">](https://seaborn.pydata.org/) |
